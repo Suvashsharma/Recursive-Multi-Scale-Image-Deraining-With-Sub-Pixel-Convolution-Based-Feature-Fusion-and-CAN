@@ -18,8 +18,8 @@ In this paper, we propose a new single image deraining architecture with competi
   - Run the command "python3.6 test.py".
 # Results:
 <img src ="/Synthetic_result.PNG" >
-Results comparison on various state-of-the-art techniques on several synthetic datasets.\
-<img src = "/real_world_result.PNG">\
+Results comparison on various state-of-the-art techniques on several synthetic datasets.
+<img src = "/real_world_result.PNG">
 Result comparison on real-world SPANet dataset.
 
 # Acknowledgement:
