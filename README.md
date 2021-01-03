@@ -15,3 +15,6 @@ In this paper, we propose a new single image deraining architecture with competi
 # Testing:  
   - Put the test dataset in /Datasets/test/ directory.\
   - Run the command "python3.6 test.py".\ 
+# Results:
+<img src ="/Synthetic_result" >
+<img src = "/real_world_result">
