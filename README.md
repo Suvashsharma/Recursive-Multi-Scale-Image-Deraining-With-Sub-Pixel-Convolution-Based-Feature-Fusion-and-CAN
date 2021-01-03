@@ -10,4 +10,8 @@ In this paper, we propose a new single image deraining architecture with competi
   -opencv-python, tensorboardX
 # Training:
   -Download the dataset Rain100H, Rain100L, Rain12, DDN dataset and put them in subsequent folder inside Datasets/train/ and /Datasets/test/.\
-  -CD to the directory the master folder and run the command for training as given in commands.txt file.\
+  -Set the data and model saving directories in the script "train.py".
+  -CD to the master folder and run the command for training as given in commands.txt file (python3.6 train.py).\
+# Testing:  
+  - Put the test dataset in /Datasets/test/ directory.\
+  - Run the command "python3.6 test.py".\ 
