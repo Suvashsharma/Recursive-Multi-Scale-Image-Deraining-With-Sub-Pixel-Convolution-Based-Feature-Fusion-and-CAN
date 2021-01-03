@@ -13,7 +13,7 @@ In this paper, we propose a new single image deraining architecture with competi
   -Set the data and model saving directories in the script "train.py".
   -CD to the master folder and run the command for training as given in commands.txt file (python3.6 train.py).\
 # Testing:  
-  - Put the test dataset in /Datasets/test/ directory.\
+  - Put the test dataset in /Datasets/test/ directory.
   - Run the command "python3.6 test.py".
 # Results:
 <img src ="/Synthetic_result.PNG" >\
