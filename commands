@@ -1,8 +1,8 @@
 Training:
-python3.6 train_IAnet.py --preprocess True --save_path logs/Rain100H/dense_att_v_6_relu --data_path ../PReNet/datasets/train/RainTrainH
+python3.6 train.py
 
 
 Testing:
-python3.6 test_IAnet.py --logdir logs/Rain100H/dense_att_v_6_relu --save_path results/Rain100H/dense_att_v_6_relu --data_path ../PReNet/datasets/test/Rain100H/rainy
+python3.6 test.py
 
 
