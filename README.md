@@ -4,10 +4,10 @@ In this paper, we propose a new single image deraining architecture with competi
 <img src = "/Graphical_Abstract/Graphical_abstract.PNG" >
 
 # Requirements:
-  -Ubuntu >=16.04
-  -Python3.6
-  -Pytorch >=0.4
+  -Ubuntu >=16.04\
+  -Python3.6\
+  -Pytorch >=0.4\
   -opencv-python, tensorboardX
 # Training:
-  -Download the dataset Rain100H, Rain100L, Rain12, DDN dataset and put them in subsequent folder inside Datasets/train/ and /Datasets/test/ .
-  -CD to the directory the master folder and run the command for training as given in commands.txt file.
+  -Download the dataset Rain100H, Rain100L, Rain12, DDN dataset and put them in subsequent folder inside Datasets/train/ and /Datasets/test/ .\
+  -CD to the directory the master folder and run the command for training as given in commands.txt file.\
