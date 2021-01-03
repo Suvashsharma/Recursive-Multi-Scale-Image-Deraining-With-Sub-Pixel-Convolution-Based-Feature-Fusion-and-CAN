@@ -20,3 +20,6 @@ In this paper, we propose a new single image deraining architecture with competi
 Results comparison on various state-ot-the-art techniques on several synthetic datasets.\
 <img src = "/real_world_result.PNG">\
 Result comparison on real-world SPANet dataset.
+
+# Acknowledgement:
+--Training and data processing scripts are taken from pytorch implementation of [PreNet](https://github.com/csdwren/PReNet). We are very much thankful for the authors for sharing their codes.
